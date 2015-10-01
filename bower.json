@@ -1,0 +1,16 @@
+{
+  "author": "Luiz Carvalho",
+  "name": "ng-time-teller",
+  "homepage": "https://github.com/lcarva/ng-time-teller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lcarva/ng-time-teller.git"
+  },
+  "main": "./src/ng-time-teller.js",
+  "dependencies": {
+    "angular": "^1.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.13"
+  }
+}
